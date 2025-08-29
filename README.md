@@ -3,7 +3,7 @@ This repository is a companion page for the following publication:
 > E.H. Fellinger, P. Lago. 2025. Data Management Strategies that reduce IT Energy Consumption,
 mitigate Data Growth, and decrease Carbon Dioxide Emissions. VU Amsterdam.
 
-It contains all the material required for replicating the study, including: raw data, processes data, and research protocol.
+It contains all the material required for replicating the study, including: raw data, processed data, and the research protocol.
 
 ## How to cite us
 The scientific article describing design, execution, and main results of this study is available [here](https://www.google.com).<br> 
